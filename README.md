@@ -18,3 +18,6 @@ vi. Perfom feature extraction using PCA
 vii. Perform feature selection using L1
 viii. Train a regression model using PCA with 2 compnents
 
+# Machine-Learning Project
+
+Loan Prediction 
