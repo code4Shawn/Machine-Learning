@@ -20,4 +20,9 @@ viii. Train a regression model using PCA with 2 compnents
 
 # Machine-Learning Project
 
-Loan Prediction 
+Loan Prediction
+# Group Members
+Melvin Ngure - 110497 
+Suzan Onyango - 111234 
+Shawn Ng'iela - 111882 
+Marysalome Omwega - 110694
